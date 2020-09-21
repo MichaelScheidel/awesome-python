@@ -1,6 +1,8 @@
 # Contributing
 
 Your contributions are always welcome!
+Please send a mail to "lieblingskollege@testgithub.com"
+
 
 ## Guideline
 
